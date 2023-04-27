@@ -5,9 +5,10 @@
  */
 void prompt(void)
 {
-        char buf[] = "Ezeonor:& ";
-        if (isatty(STDIN_FILENO) == 1)
-        {
-                write(STDOUT_FILENO, buf, sizeof(buf) - 1);
-        }
+	char buf[] = "Ezeonor:& ";
+
+	if (isatty(STDIN_FILENO) == 1)
+	{
+		write(STDOUT_FILENO, buf, sizeof(buf) - 1);
+	}
 }

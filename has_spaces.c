@@ -6,6 +6,6 @@
  */
 int has_spaces(char *str)
 {
-        return strchr(str, ' ') != NULL;
+	return (strchr(str, ' ') != NULL);
 }
 
