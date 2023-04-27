@@ -2,8 +2,6 @@
 /**
  * main - Entry point for the shell program
  * @argc: Argument count
- * @argv: Array of command-line arguments
- * @envp: Environment variables pointer
  * Return: Always 0 on success
  */
 int main(void)
