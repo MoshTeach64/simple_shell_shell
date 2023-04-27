@@ -1,7 +1,0 @@
-Main Branch ---> PROJECT BOILERPLATE DEVELOPMENT BRANCH
-HEADER FILE ---> main.c
-FUNCTION FILES README.md shell.h 0.Betty.c command_line.c com_line_arg.c handle_path.c exit_built-in.c env.c getline_own.c strtok_a.c sta_exit.c seten.c com_cd.c com_sep.c log_op.c _alias.c var_rep.c com_hash.c
-
-Moshood Odutola Ezekiel Owner: README.md command_line.c handle_path.c env.c strtok_a.c seten.c com_sep.c _alias.c com_hash.c
-
-Onohije Blessing Igbadume Contributor: 0.Betty.c com_line_arg.c exit_built-in.c getline_own.c sta_exit.c com_sep.c com_hash.c shell.h
